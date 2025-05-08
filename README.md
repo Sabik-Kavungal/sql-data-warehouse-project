@@ -4,8 +4,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 📖 Project Overview
 Data Architecture
 Our solution implements the Medallion Architecture with three distinct layers:
-
-Data Architecture Diagram
+![data_architecture](https://github.com/user-attachments/assets/2161c628-fe12-4b06-a456-91ead92049ef)
 
 1. Bronze Layer: Raw data ingestion from source systems (CSV files)
 
